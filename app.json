@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "doner",
+    "description": "DoNER App",
+    "slug": "doner",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
